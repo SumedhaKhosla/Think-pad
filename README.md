@@ -44,5 +44,4 @@ npm install
 npm run start
 
 
-<img width="794" alt="image" src="https://github.com/user-attachments/assets/43429f44-3f7a-4aab-a2d1-ea9cfd0642a4" />
 
